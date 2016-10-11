@@ -1,0 +1,95 @@
+The History of Philosophy of Perception
+De Quantitate Animae
+
+Augustine and Descartes on the Soul
+
+Like Descartes, Augustine maintains that the soul is simple, inextended, and incorporeal. However, unlike Descartes, the soul is also the principle of life. Thus whereas Augustine will understand the capacities associated with the nutritive soul (such as nutrition, growth, and reproduction) as psychic powers, powers of the intelligible and incorporeal soul animating the life of the living being or compound, Descartes, on the other hand, will offer mechanical explanations of these capacities, explanations not involving the soul. 
+
+The Incorporeal Nature of the Soul
+
+De Quantitate Animae (DQA) is mainly charged with the risk of arguing for the incorporeal nature of the living soul. In the dialogue, Evodius, like Augustine’s former self (Confessions 7.1ff), has a hard time conceiving of something that is both real and incorporeal (compare the position of the Giants in the Sophist). Throughout DQA, Augustine will give accounts of the soul’s activities and powers that are meant to persuade us that these are not activities and powers of the body. The question of the soul’s incorporeal nature is linked with the question of its magnitude. Bodies are extended in three dimensions, If souls are inextended, if they lack extensive magnitude, then they are incorporeal. But, importantly, being incorporeal is consistent with the soul’s possession of superior virtual magnitude. That is to say that psychic powers, the powers and virtues of the soul, are superior to any corporeal power. 
+
+Evodius' questions
+
+	1. What is the origin of the soul? (DQA 1.2)
+	2. What is the nature of the soul? (DQA 2.3)
+	3. What is the magnitude of the soul? (DQA 3.4–36.80)
+	4. What is the reason for the soul's union with the body? (DQA 36.81)
+	5. What is the effect of this union? (DQA 36.81)
+	6. What is the effect of the soul's separation from the body? (DQA 36.81)
+
+The Soul’s Origin 
+
+Augustine distinguishes two senses of the question about the origin of a person. When inquiring about the origin of a person we may be inquiring as to:
+
+	1. the land of their birth, their homeland, or
+	2. what they are composed of
+
+Evodius wants answers to the question in both senses about the soul’s origin. 
+
+Concerning the first sense, Augustine will claim that God, the Creator, is the proper habitation and home of the soul. A home is both a place where one is from as well as a place that one returns to. Talk of origin might emphasise the former aspect but the latter aspect is clearly also in play in Augustine’s talk of God as the proper habitation and home of the soul. This is an echo of the Neoplatonist doctrine of procession and return in a Christian Platonist setting.
+
+Concerning the second sense, Augustine will maintain that the soul is a simple substance and is not composed of further elements.
+
+The Soul’s Nature 
+
+“Qualis sit”, literally, what is the quality of the soul, though nature captures the intended sense. However, the Latin makes clear how Augustine’s response is an answer. According to Augustine, the nature of the soul is determined by its likeness to God. Evodius initially doubts that the soul is like unto God since God has powers that the soul lacks. Thus God can create immortal things, like the soul, but humans cannot, in turn, create immortal things. Augustine’s response is reasonable: just as a corporeal image of Evodius’ body will not have the same powers as Evodius’ body despite its likeness, so too the soul will not have the same powers as God, the Creator, in whose likeness the soul is made. If one is still in doubt whether this response is to slim a basis for an informative, substantive philosophical account of the soul’s nature, one need only consult De Trinitate, one of Augustine’s great mature works, where the principle that the soul is an imago Dei is used to elaborate a proto-Catesian theory of mind. (Bold claim: De Trinitate is the most important work in the history of philosophy of mind that philosophers of mind no longer read.)
+
+The Magnitude of the Soul
+
+“Quanta sit”, literally, what is the quantity of the soul. The relevant notion of quantity is continuous quantity or magnitude as opposed to discrete quantity or number. Augustine allows that there are numerically distinct souls. The question is whether these numerically distinct souls have, in addition, continuous quantity or magnitude. 
+
+Extensive vs Virtual Magnitudes
+
+The question concerning the magnitude of the soul is subject to further specification since two senses of magnitude may be distinguished (DQA 3.4):
+
+	1. extensive magnitudes: magnitudes of extension, “How tall is Hercules?”
+	2. virtual magnitudes: magnitudes of power, “How great is Hercules valour or prowess?”
+
+And again, Evodius seeks an answer to the question in both senses. In the sense of extensive magnitude, Augustine denies that the soul has quantity in this sense. The soul is inextended, and, hence, incorporeal (since corporeal bodies are necessarily extended in three dimensions). Augustine will maintain that the soul, while lacking extensive magnitude, nevertheless possesses virtual magnitude. Whereas the question how great is the soul in the sense of extensive magnitudes is answered in the negative in DQA 3.4, a full answer to the question how great is the soul in the sense of virtual magnitude, in its powers and virtues, only emerges in the hierarchically organised enumeration of the soul’s powers that ends the dialogue (DQA 33–36). This hierarchically organised enumeration of the soul’s powers is also, at the same time, a soteriology, at least in part, in that it describes the soul’s ascent to God (and it is in this sense that it is a theoretical articulation of the vision in Ostia that Augustine shared with Monica as reported in the Confessions).
+
+Evodius will resist Augustine’s denial that the soul possesses extensive magnitude. Extensive magnitudes cited by Augustine are length, width, and strength. Strength here translates robustam which means the resistance offered by solid space-filling things. Specifically, then, Evodius doubts whether something without length, width, and strength so much as could exist. Here Evodius is echoing the position of the Giants. In the Sophist, Plato re-envisions the Gigantomachy, the struggle for political supremacy of the cosmos between the Giants and the Olympian Gods, as a metaphysical dispute between corporealists, the Giants, and the Friends of the Forms, the Gods. Compare Evodius position to the Giants:
+
+	One party is trying to drag everything down to earth out of heaven and the unseen, literally grasping rocks and trees in their hands, for they lay hold upon every stock and stone and strenuously affirm that real existence belongs only to that which can be handled and offers resistance to the touch. (Plato, Sophist 246a; Cornford in Hamilton and Cairns 1989, 990)
+
+In response, Augustine will offer a negative argument and a positive argument. According the negative argument, just because the soul lacks extension does not mean that it is not real (DQA 3.4–4.5). And according to the positive argument, the soul must be incorporeal since it possesses powers that bodies lack (DQA 4.6–15.25).
+
+The Negative Argument
+
+In the Sophist, the Eleatic Visitor convinces the Giants to modify their corporealism in order to allow for justice, since the denial of this virtue would be impious. Justice lacks length, width, and strength. It cannot be grasped and offers no resistance to touch (an hence lacks strength, robustam). And it is by means of the Eleatic Visitor’s argument that Augustine convinces Evodius that lacking extensive magnitude does not entail nonexistence. Specifically, a tree, a sensible and corporeal object with extensive magnitude exists. But so does justice despite lacking extensive magnitude. Moreover, and importantly, justice is greater than the tree. The adaption of the Eleatic Visitor’s argument is meant to establish not only that virtues like justice may exist despite being unexpended but that they may also be more excellent than any extended thing. Justice may lack extensive magnitude and yet possess greater virtual magnitude than a sensible body. 
+
+The Positive Argument
+
+Augustine may have established that the soul’s nonexistence does not follow from its lack of extension, but he has yet to establish what the soul positively is. Moreover, just because justice is real despite being inextended, it does not follow that the soul itself is inextended. Evodius is persistently attracted to the idea that the soul extends throughout the body that it animates and hence must itself be extended. Augustine will argue, in contrast, that the soul is inextended because it possesses powers that corporeal extended things lack. In effect, Augustine is arguing that the soul possesses greater virtual magnitude than any extended corporeal thing. It is the greatness of the soul that establishes its inextended, and hence, incorporeal nature.
+
+Augustine begins by clarifying that corporeal things are extended in three dimensions—length, width, and height. Height replaces strength and occasions puzzlement by Evodius. The source of his puzzlement is parochial and linguistic. Latin lacked unambiguous terms pick out the three dimensions, and so Evodius does not immediately pick up on Augustine’s intention in speaking of height (altitudo). He has the concept of the third dimension, he merely lacks a Latin word that will immediately and unambiguously pick it out. 
+
+But Evodius suggests that the soul may be like the wind. The wind is invisible, but it is real and extends throughout three dimensions. It is a moving stream of air with length, width, and height. Perhaps the soul is like the wind in being subtly incorporeal, an unseen force extending throughout the body.
+
+Augustine’s general response is to emphasise how an account of the activities and powers of the soul establish that they are not activities and powers of a body. Indeed, so construed, Augustine offers not one positive argument but two:
+
+	1. In visually imagining a remembered body, my mental image is not constrained in the way that corporeal images are. Corporeal likenesses are only as large as the body in which the image occurs, incorporeal likenesses are not so constrained (DQA 5.7–9)
+	2. In conceiving of geometrical figures abstracted from three-dimensional bodies—such as planes, lines, and points that figure as parts of those bodies—the soul must be incorporeal since only like can conceive of like (DQA 6.10–15.26)
+
+The Positive Argument I: Memory and Imagination
+
+The soul possesses the power to imagine bodies in memory that does not obey a principle governing corporeal likenesses. Augustine concludes not only must the soul be inextended and incorporeal, but that the power of the soul to imagine bodies is greater than the corresponding power of corporeal likenesses.
+
+	Principle governing corporeal likenesses: A corporeal likeness is only as large as the body in which the image or corporeal likeness occurs.
+
+But the exercise of our power to visually recall bodies is not so constrained. Evodius can recall how large Milan is and how far it is from Rome. But Milan is too large to fit in his head.
+
+The Positive Argument II: Conceiving Geometrical Abstractions
+	
+In looking at the table, I can conceive of the table’s surface, or the line constituting the boundary of one of its edges. or the point at a given corner. A surface, however, is not a three-dimensional object, and, hence, not a body. Similarly, for lines and points. So what must the soul be like if it is to possess the power to conceive of incorporeal geometrical abstractions? Augustine appeals to the following principle:
+
+	The like-by-like principle: Like may only be conceived by like.
+
+Given the like-by-like principle, since geometrical abstractions are incorporeal, they may only be properly conceived by something which is itself incorporeal.
+
+That the soul possesses a power that bodies lack may be established by appeal to the like-by-like principle, but the theme of the soul’s superiority comes in in a different way from the first positive argument. In the first positive argument, we had the suggestion that incorporeal images are superior to corporeal images because they were not constrained by the principle governing corporeal likenesses. So that was a case where a power of the soul was held to be superior to a corresponding corporeal power. In the second positive argument, the theme of the soul’s superiority emerges in a different way. Though incorporeal, the geometrical abstractions retain an element of corporeality in remaining extended, if not in all three dimensions. This is not the superiority of the soul’s power over a corresponding corporeal power, but the superiority of the soul’s power over the object of its activity.
+
+
+
+
+
