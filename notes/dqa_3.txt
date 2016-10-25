@@ -1,0 +1,28 @@
+De Quantitate Animae
+Perception
+
+The Passive and the Active
+
+Augustine's theorizing about perception is structured around two themes. First, perception involves its object acting upon the perceiver's body, in particular, the relevant sense organ. Second, perception is a psychological activity distinct from its object's effect upon the sense organ. How are they related?
+
+It can seem hard to understand how exactly they are related. After all, the first involves the passive reception of an effect from without, while the other involves an activity directed outwards. And it can be puzzling how, exactly, the active and passive elements of perception combine.
+
+So consider the following puzzling. Though not explicitly considered by Augustine, reflection upon Augustine's theorizing about perception usefully sheds light upon it.
+
+Consider Evodius perceiving Augustine. Augustine appears bearded in Evodius' perceptual experience because Augustine was bearded prior to so appearing. And Augustine being bearded is part of what causes Augustine to so appear. This observation is perhaps the source of the long tradition of thinking of perception as a passive capacity. It is plausible, at the very least, that it is a materially necessary condition on a subject perceiving an object that the relevant sensory organs of the subject be acted upon, whether mediately or immediately, by that object. Thus Augustine must act upon Evodius' eyes if Evodius is to see Augustine
+
+Evodius sees Augustine. Augustine acts upon Evodius' eyes. And this is part of the natural history of Evodius' seeing. Not only must Evodius' eyes be acted upon by Augustine, but seeing Augustine is an experience that Evodius undergoes. Even though seeing Augustine is an experience that Evodius undergoes as a result of Augustine acting upon his eyes, Evodius' seeing of Augustine is not something done to Evodius by Augustine. It is Evodius that sees Augustine. It is Evodius, and not Augustine that is doing the seeing. Even acknowledging the passive elements in the natural history and phenomenology of Evodius' perception (that the Augustine is the cause of Evodius seeing him and that Evodius seeing Augustine is an experience that Evodius undergoes), there is a residual active element in Evodius' seeing. Augustine may make himself seen, but Evodius' seeing of the Augustine is activity properly attributed to Evodius and not Augustine.
+
+Classical and Hellenistic Background
+
+Classical reasoning about perception can usefully be seen as structured around the Timaeus 45bff account of vision. Fire that gives light but does not burn emanates from the eye in a compressed stream. Since it is similar to it, the fiery emanation unites with the external light to constitute a continuous unity that connects the eye with the perceived object. Since it is a continuous unity, the compound of fiery emanation and external light passes on the motion of the object of perception through the body to the soul. The compound body is conceived as an instrument for the visual power of perception at a distance.
+
+Aristotle's postulation of the illuminated transparent as the medium of sight can be seen as a reaction to the Timaeus account. On the Timaeus account, the eyes emission of a fiery substance contributes to the creation of a novel medium, the compound body of emanated fire and light. It is a medium in the sense of being a causal mediator. The distal visible object acts upon the eyes by the medium, a continuous unity, conveying that activity. Aristotle's insight was that there was no need to postulate a novel medium. The illuminated transparent, such as air illuminated by daylight, is an already existing continuous unity which can convey the activity of distal visible objects.
+
+The Stoics had a complicated account of perception. However, that account was driven by an analogy. According to Alexander of Aphrodisas, the Stoics compared the power to see distant objects with a blind man's stick. (Later, Descartes, in the Dioptrics, will revive this Stoic analogy but will put it to a distinctly modern use.) The stick analogy picks up on a formal feature that is preserved, as well, on the Peripatetic account. The stick, like the compound of emanated fire and light and the illuminated transparent, is a continous unity. This formal feature makes a difference to how these thinkers are thinking about the causal transaction. So consider poking something with a stick. It is absurd to suppose that the poke propogates through the stick to the thing poked. Rather, the stick acts upon the thing by poking it as a continuous unity. So we are still far from the more familiar causal model of of light waves propagating from a surface from which they were reflected. 
+
+Causation and Contiguity
+
+The three accounts we sketched, the Platonic, Peripatetic, and Stoic, each assume that causal activity requires contact. If action at a distance were possible, then the postulation of a medium, novel or no, would be unnecessary to transmit causal influence. Some late Platonist thinkers (Plotinus, Porphyry, Proclus) accept action at a distance and so eschew the postulation of a medium and the Stoic stick analogy. Augustine's view is mixed. With respect to soulless natural bodies, causation requires contact. But thanks to the superior power of the soul, bodies animated by the presence of the soul are not so restricted. So there is one causal order for soulless natural bodies and another for those animated by the presence of the soul. And this is further testimony to the greatness of the soul (understood as virtual magnitude).
+
+Extramission
