@@ -1,21 +1,122 @@
 The History of Philosophy of Perception
 De Quantitate Animae
+Growth
+
+Definition of the Soul
 
 The Sensible and the Intelligible
 
-The sensible is known through the senses, the intelligible through reason. The sensible is corporeal, the intelligible incorporeal. Augustine will maintain that the intelligible is better known through reason, than the sensible is through the senses. Not only is there a difference in our epistemic access to these, but there is an evaluative difference between them as well. Intelligible things, like the virtue of justice, are more important than sensible things, like a visible tree.
+The sensible is known through the senses, the intelligible through reason. The sensible is corporeal, the intelligible incorporeal. Augustine will maintain that the intelligible is better known through reason, than the sensible is through the senses and that it is unreasonable to suppose otherwise. Not only is there a difference in our epistemic access to these, but there is an evaluative difference between them as well. Intelligible things, like the virtue of justice, are more important than sensible things, like a visible tree.
 
 Two challenges
 
-At this point the central argument of the dialogue has been made. More specifically, Augustine has completed his negative and positive cases. That is to say, Augustine has argued that just because something is incorporeal does not mean that it is less real or less valuable than something corporeal. Moreover, Augustine has argued that the soul must be incorporeal because it possesses powers that corporeal extended things lack. And the incorporeal powers of the soul are either more valuable than their corporeal counterparts or at least more valuable than the corporeal objects of their activity. Evodius accepts that Augustine has established this. What is raised is less objections per se to Augustine's negative and postive case than certain residual puzzles or challenges. There are two:
+At this point the central case of the dialogue has been made. More specifically, Augustine has completed his negative and positive arguments. That is to say, Augustine has argued that just because something is incorporeal does not mean that it is less real or less valuable than something corporeal. Moreover, Augustine has argued that the soul must be incorporeal because it possesses powers that corporeal extended things lack. And the incorporeal powers of the soul are either more valuable than their corporeal counterparts or at least more valuable than the corporeal objects of their activity. Evodius accepts that Augustine has established this. What are raised are less objections per se to the conclusions of Augustine's negative and postive arguments than certain residual problems or challenges. There are two:
 
-1. If the soul is inextended, how is it that the soul grows over time as the body grows? (DQA 15.26–22)
-2. If the soul is inextended, then it is not extended throughout the body. But if the soul is not extended throughout the body, then how can it sense a stimulus on any and every part of the body? (DQA 23–)
+	1. If the soul is inextended, how is it that the soul grows over time as the body grows? (DQA 15.26–22)
+	2. If the soul is inextended, then it is not extended throughout the body. But if the soul is not extended throughout the body, then how can it sense a stimulus on any part of the body? (DQA 23–)
 
-Bigger and Better
+The discussion of growth is somewhat confusing in that it is not always clear what is at stake in the discussion. One central issue can be stated clearly, however. While Augustine is happy to speak of the soul's growth he is keen to distinguish the sense in which the soul grows, for example, through the development of its rational powers, from the sense in which a body grows, by extending in space. Given that the soul is inextended, it cannot grow in that sense. The growth of the soul involves, not an increase in extensive magnitude, but an increase of virtual magnitude, that is to say an increase in potency to act. Greatness of soul is not bulk but power.
 
-Augustine begins DQA 16 by emphasizing the distinction between bigger and better, between something greater in extent (in the clumsy technical vocabulary I introduced, greater in extensive magnitude) and something greater in power or virtue (greater in virtual magnitude). A circle is greater than a square not because it is greater in extent, but because it manifests greater equality among its parts (every point on the surface of a circle is equidistant from itse center). It is greater, not in virtue of its quality or extensive magnitude, but in virtue of equality among its parts because of its symmetrical form.
+The discussion of growth is divided into five subtopics:
+
+	1. Growth of the soul and virtue (DQA 16)
+	2. Growth of the soul and time (DQA 17)
+	3. Growth of the soul and language acquisition (DQA 18)
+	4. Growth of the soul and learning (DQA 19-20)
+	5. Growth of the soul and physical strength (DQA 21–2)
+
+That the growth of the soul does not involve an increase in spatial extent seems to be established in DQA 16 with the discussion of the first subtopic. So why the extended discussion? Matters are made only worse in DQA 17 where it is unclear why a dependency upon extent in time is problematic or even which extent of time is at stake. There is one positive thing the extended discussion could be doing over and above sorting out whatever confusions Evodius and or Augustine are prone to. The extended discussion of the growth of the soul is laying the foundations for the hierarchically organized list of the soul's powers (DQA 33–36) occurring at the rhetorical crescendo of the dialogue. Earlier I claimed that this was at once a philosophical psychology and a soteriology. Perfection of the higher powers of the soul depend upon, not only God's grace, but the perfection of the lower parts of the soul. And the highest perfection of the soul involves the contemplation of the divine. So it is a soteriology insofar as it is describing a path that leads to God. But notice that the hierarchically organized list of the soul's powers, in its soteriological guise, involves the harmonious development of the rational powers of the soul. And the development of the soul in this sense just is the sense in which the soul may be said to grow. So perhaps Augustine, looking ahead to DQA 33–36, is taking his time hear to leisurely dispense with any confusions about the incorporeal nature of the soul that may be engendered in speaking of its growth.
+
+Growth of the Soul and Virtue
+
+In DQA 16 Augustine argues that the growth of the soul lacks the spatial dimension that the growth of the body has. The argument of this chapter depends upon two things. The first is Augustine's adopting and perhaps adapting the example of justice from the Sophist: that the virtue of justice, though lacking in extension, is not only as real but more valuable than any sensible and corporeal thing. The second is the identification of the growth of the soul with the development of virtue. Taken together these suffice to show that the growth of the soul does not involve increase in spatial extent.
+
+Augustine begins DQA 16 by emphasizing the distinction between bigger and better, between something greater in extent (in extensive magnitude) and something greater in power or virtue (in virtual magnitude). A circle is greater than a square not because it is greater in extent, but because it manifests greater equality among its parts (every point on the surface of a circle is equidistant from its center). It is greater, not in virtue of its quality or extensive magnitude, but in virtue of equality among its parts because of its symmetrical form.
 
 Earlier, Augustine followed the Eleatic Visitor's lead in using the virtue of justice to argue two things. First, that just because something is incorporeal does not mean that it is not real. Second, something can be of great value without being great in extent. Something can be better without being bigger. This prompts Augustine to reflect on the nature of virtue and extend these points further. 
 
-The circle is superior to the square not because of greater quantity but greater equality. Virtue is itself a kind of equality, an equality of life consistently in harmony with reason. Virtue is greater than some other state of the soul not because it is greater in extent, but because it is greater in being harmoniously balanced with reason and so to that extent approaches the divine.
+The circle is superior to the square not because of greater quantity but greater equality. Virtue is itself a kind of equality, an equality of life consistently in harmony with reason. Virtue is superior than some other state of the soul not because it is greater in extent, but because it is superior in being harmoniously balanced with reason and so to that extent approaches the divine.
+
+Growth is a teleological development defined in part by its end. In the case of the growth of the soul, the end is virtue. Since the beauty and perfection of virtue involves, not spatial extension, but equality in being harmoniously balanced with reason, the growth of the soul, the development of its powers in greater harmony with reason, does not involve the soul's extending through the space of the body.
+
+Growth of the Soul and Time
+
+In the closing argument of DQA 16, Augustine acknowledges that the growth of the soul, like the growth of a body, occurs through the medium of time: "And if greater is one thing and better another, as you already admitted, the souls should not be called greater but better by reason of its advancing with age and becoming subject to reason." This acknowledgement prompts Evodius' query in DQA 17: If the soul is without quality (in the sense of extensive magnitude), then, though it is not benefitted by the size of the body's members, how is it that it depends upon the extent of time?
+
+What is at stake here? Is it merely that incorporeal developments such as the soul's increasing virtue are necessarily temporally extended? Or is there some more specific notion of temporal extent at work here? Perhaps that the soul's growth, while extended in time, necessarily keeps pace with the physical growth of the body. Or is Evodius puzzled about how the passage of time may be the cause of the inextended soul's development? There are two considerations against the former suggestion. First, it is hard to conceive of development, whether corporeal or incorporeal, as not taking place in the medium of time. Second, Augustine's responses to Evodius' challenge, so understood, badly misfire. This favors the latter alternatives. 
+
+On the first of these interpretations, Evodius is puzzled by how the development of the soul could be temporally linked with the growth of the body if the soul, unlike the body, is inextended. This is how Gerard O'Daly understands Evodius' challenge, and he reads Augustine's response accordingly. As O'Daly, reads him, Augustine is claiming that the development of some rational powers (such as learning from studies) involves industry occurring over time. This has the consequence that rational powers do not develop in pace with the growth of the body. A young person who industriously applies themselves may gain learning, than an older person, who did not so apply themselves, may lack. 
+
+Unfortunately, O'Daly's reading, while interesting, can seem to be an over-reading. While Augustine does indeed focus in youthful industry and its contrast with the activity of some of their elders, there is no mention what this industry is for, such as learning, or the development of any other incorporeal power of the soul. Rather, all that Augustine claims is this: Just as a small person may be the intellectual superior of a large person, a young person may be more industrious than on old person. Industry would appear to be, not the means of acquiring greater powers of the soul, but the manifestation of great power of soul. And form this Augustine immediately denies that the passing of time contributes to the growth of the soul in the same way that it contributes to the growth of the body. The issue would seem to be whether time is a cause of the soul's development.
+
+Augustine goes on to observe that time is not invariably the cause of a bodies growth. Some bodies shrink with age. The cause of the growth of a body is, in fact, not the time in which this growth occurred. Rather, the cause of the growth of a body is a seminal principle (rationes seminales) embedded in its nature. If time is not the cause of growth in bodies, we should not be surprised that time is not the cause of growth in souls.
+
+Growth of the Soul and Language Acquisition
+
+So far Augustine has claimed that the soul grows only metaphorically, in the sense of an increase in its power or potential for activity. The soul does not non-metaphorically grow in the sense that a body does, where this involves an increase in extensive magnitude. Evodious' continued puzzlement about growth re-emerges with the acquisition and development of a particular power, the ability to speak and to comprehend the speech of others. If the soul is inextended, then how is it possible for it to acquire the power of speech?
+
+Evodius seems particularly contentious in this stretch of the dialogue. It is useful to begin with Evodius' epistemological framework:
+
+	1. Whatever is learned is an art.
+	2. Some arts are learned by observation and mimicry
+	3. Some arts are taught by teachers
+	4. A soul that acquires an art by observation and mimicry becomes larger
+	5. It is the soul's growth, in this sense, that explains the art's acquisition
+	6. Art, and not the growth of the soul, in this sense, explains what is taught by teachers.
+
+Augustine both elicits this framework from Evodius and tests it with respect to a pair of abilities each linked with the presence of the soul:
+
+	1. The ability to speak and comprehend the speech of others
+	2. The ability to walk a tight-rope
+
+It typically does not suffice to learn to walk a tight-rope to observe someone who does. So the acquisition of this ability requires instruction. Insofar as this involves the development of the soul's powers, this development is explained by art and not the growth of the soul, understood as the soul becoming larger.
+
+The ability to speak and comprehend the speech of others proves more contentious. Evodius' developed position is that while the acquisition of one's native language is explained by the growth of the soul, any subsequent foreign languages acquired are explained instead by art. Against this, Augustine urges Evodius to imagine a person raised among mutes who later in life encounters other people with the power of speech and subsequently acquires this power for themselves. Are we to imagine their soul becoming larger as they acquire the power of speech? Does it shrink when we lose that power?
+
+Growth of the Soul and Learning
+
+Not all knowledge is created equal. The two most important kinds of knowledge are knowledge of the nature of the soul and knowledge of the nature of God:
+
+	The study of philosophy...treats of two problems: one regarding the soul, and the other regarding God. The goal of the first is to know ourselves; the foal of the second os to know our origin. The former is more pleasing to us; the latter more valuable. The former makes us fit for a happy life; the latter gives us happiness. The first is for those beginning to learn, and the other for those who are well instructed. (Augustine, De Ordinatio 2.18.47)
+	
+	Augustine—'I desire to know God and my soul.' Reason—'Nothing else?' Augustine—'Nothing at all.' (Augustine, Soliloquia 1.2.7)
+	
+So Augustine views knowledge as structured by a theological conception of eudaimonia.
+
+Learning may be a form of growth, if only metaphorically. However, like the growth of animate bodies, the growth of the soul through learning takes different forms.
+
+Three kinds of physical growth:
+
+	1. Growth that is necessary for the healthy and harmonious development of the parts of the body
+	2. Growth that is not necessary, and that retards the health or harmonious development of some parts of the body
+	3. Growth that is injurious and that we call a tumor
+	
+Just as the effects of physical growth on a living being are various depending upon the kind of growth, the effects of learning on the soul are various depending upon the kind of learning involved (presupposes knowledge as structured around theological virtue).
+
+Three kinds of learning:
+
+	1. That which promotes a good and happy life (learning about the soul and God)
+	2. That which is motivated by curiosity more than the worth of the object (dissipates the mind's energies)
+	3. That which "enfeebles the soul, inflicting a grievous wound", cultivated knowledge of the sensible (learning about wine dilates the senses and shrivels the intellect)
+	
+This discussion prompts an interlude on nativism (DQA 20). If the soul grows, albeit metaphorically, by morally beneficial learning, then does that mean that the souls of newborns are artless despite being eternal? Augustine's reply can seem to recall the Meno:
+
+	For, while in your view the soul has brought no art with it, in mine, on the other hand, it has brought every art; for to learn is nothing else than to recall and remember. (DQA 20.34)
+	
+	This can suggest the doctrine, defended by Plato in the Meno (as well as in other dialogues, such as Phaedo and Phaedrus), that the human soul existed at some time prior to its union with the body. In this prior state the soul acquires knowledge of universal principles which can be brought to mind in this corporeal existence through the exercise of a special form of memory. Knowledge of universal principles, at least, then, are innate. The Platonic interpretation, involving as it does the pre-existence of the human soul, is repudiated in Retractationes 1.8.2.
+	
+Growth of the Soul and Physical Strength
+
+The strength of a body, like its ability to perceive, depends upon the presence of the soul as a principle of life. Deprive a body of its soul, and you deprive it of its strength. Given the connection between the presence of a soul animating the body and that body's physical strength, leads Evodius to wonder whether the development of the body's strength might not involve the enlargement of the soul. 
+
+Augustine's response comes in two parts. In the first part, he will try to undermine the connection between the development of physical strength and the body's growth by emphasizing the role of training specialized for specific tasks. In the second part, he will offer a positive account of physical strength. As O'Daly observes, the account is psychosomatic, in that the soul plays an explanatory role, but not in virtue of its enlargement.
+
+Augustine's theory of physical strength:
+
+	1. Strength is exhibited in movements initated by an impulse (nutus) of the soul
+	2. The impulse of the soul uses the sinews as engines, which are aroused by heat and dryness but become weak and lax in cold and damp.
+	3. These sinews, acting as engines of the soul, act on the muscles, which have a certain weight, to produce movement.
+	
+What we call the strength exhibited or manifest by such a bodily movement is due to the impulse, the sinews, and weight. The sou's impulse is influence by the will and so emotional factors can contribute. Thus daring can increase strength just as fear can decrease it.
+
+In the case of small children, the relevant psychology is in place, the will, reason, appetite. The problem is rather with the slackeness of their sinews and lack of physical weight. Strength of will is there, just not the corporeal capacities required to manifest this will in physical strength. Moreover, and importantly, the acquisition of these corporeal capacities through the natural development of the body's growth does not require the enlargement of the soul.
