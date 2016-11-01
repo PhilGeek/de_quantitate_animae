@@ -5,7 +5,7 @@ The Passive and the Active
 
 Augustine's theorizing about perception is structured around two themes. First, perception involves its object acting upon the perceiver's body, in particular, the relevant sense organ. Second, perception is a psychological activity distinct from its object's effect upon the sense organ. How are they related?
 
-It can seem hard to understand how exactly they are related. After all, the first involves the passive reception of an effect from without, while the other involves an activity directed outwards. And it can be puzzling how, exactly, the active and passive elements of perception combine.
+It can seem hard to understand how exactly they are related. After all, the first involves the passive reception of an effect from without, while the other involves an activity directed outwards. And it can be puzzling how, exactly, the active and passive elements of perception combine. (In the background is Aristotle's distinction between kinesis and energeia. Kinesis translates as motion, but Aristotle does not mean locomotion but a kind of modification. This modification is passive and involves being acted upon. It is thus an affection. In contrast, energeia is active and is not an affection but an activity. The late Platonists that influenced Augustine generally accepted the distinction, if not always as Aristotle understood it.)
 
 So consider the following puzzling. Though not explicitly considered by Augustine, reflection upon Augustine's theorizing about perception usefully sheds light upon it.
 
