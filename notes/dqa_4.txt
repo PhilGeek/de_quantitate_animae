@@ -1,0 +1,132 @@
+The History of Philosophy of Perception
+De Quantitate Animae
+Perception
+
+Abstract Metaphysical Motivation
+
+Augustine concedes that perception involves the object of perception acting upon the perceiver's sense organs. Nevertheless, Augustine maintains that perception is a psychological activity distinct from its objects effect upon the sense organs. 
+
+In the background are some very general metaphysical claims concerning causality:
+
+(1) Intelligible beings, such as the soul and God, are indivisible and inextended and are ontologically superior to corporeal things which are divisible and extended. 
+(2) Ontological superiors may act upon ontological inferiors. (Thus we saw the impulse of the soul acting upon corporeal sinews in Augustine's account of physical strength.)
+(3) Ontological inferiors may not act upon ontological superiors. 
+
+These claims are made explicit in De Musica and are attested in other works of Augustine. 
+
+The soul's ability to act upon corporeal things and not, in turn, to be acted upon by them is the expression of a lordly authority of a substance equipped with reason fitted to rule the body. This conception of the soul finds expression in a Platonic analogy that Augustine invokes when introducing the topic. Specifically, the senses are conceived as the soul's instrument: 
+
+	what sort of reality do you think a sense is which the soul uses through the body.
+
+So conceived the living eye, a part of the compound or living being, is the instrument of the sensitive soul that animates it. That is what it is, in the case of perception, for the soul to rule the body: It is for the sensitive soul to use the eye that it animates in sight. Notice how the exercise of sight, so conceived, not only involves the activity of the sensitive soul, its use of the sense organs that it animates, but it is also the primary agent in the causal process. If the sensitive soul uses the living eye in seeing, then, even if it is not the sole cause of seeing, it is the primary causal agent in the process of coming to see.
+
+(3) raises an issue for perception. Perception may be distinct from the object's effect on the perceiver's sense organ but it is natural to think that it may in turn be the effect of this sense organ on, at least, the sensitive soul. (3) debars such an account. For that would make the soul the passive recipient of an affection received from an external body. By (1) we know that the soul is superior to the external body, and by (3) ontological inferiors may not act upon ontological superiors and hence that the soul may not be affected by that body. This motivates Augustine to think of perception as the soul's activity directed upon external bodies.
+
+Thus Augustine will try to restrict the passive elements of perception to the object's effect on the perceiver's body. But the sensory awareness occasioned by this affection is active, not passive. It is the activity of the soul directed upon its object, the external body. 
+
+Augustine inherits this abstract metaphysical motivation from the late Platonists. Similar considerations can be found in Plotinus, Porphyry, and Proclus. But it is possible that there were phenomenological motivations too. When Evodius sees Augustine, it is Evodius, and not Augustine who sees. There does seem to be a sense in which seeing is an activity properly attributed to the perceiver and not the object perceived. Regardless of Augustine's own motivation, phenomenologically astute members of the tradition stemming from the late Platonists and Christian Platonists such as Augustine will use this metaphysics to describe psychic activities that display a suitable structure. One effect of this was an increased focus on attention culminating with the work of the first great philosopher of attention, the thirteenth century Augustinian, Peter John Olivi. Indeed a genealogy of the concept of attention properly begins with Augustine.
+
+The Definition
+
+The abstract metaphysical motivation can be seen at work in the definition of perception that Augustine offers Evodius to defend:
+
+	sensum puto esse non latere animam quod patitur corpus (DQA 23.41)
+
+Recall the ambiguity of the definition. And ignore for the moment, for the sake of clarity, the roundabout characterization of the soul's awareness (non latere animam, where the soul's awareness of an object is that object's not being hidden from the soul):
+
+(1) I think that perception is the soul's awareness of what affects the body
+(2) I think that perception is the soul's awareness of the affection of the body
+
+With the roundabout characterization these would be:
+
+(1*) I think that perception is what affects the body not being hidden from the soul
+(2*) I think that perception is the affection of the body not being hidden from the soul
+
+On the first disambiguation, perception involves three elements: (i) the perceiver's soul, (ii) their body, (iii) what affects their body from without. On the second disambiguation, perception only involves two elements: (i) the perceiver's soul and (ii) their body. The first is adequate to account for perception the second at best accounts for bodily sensation.
+
+There are two parts to Augustine's definition:
+
+	(1) non latere animam
+	(2) quod patitur corpus
+
+The first part describes the soul's relation to the object of perception, and the second part describes the object of perception. More than that, the first part describes the soul's activity, whereas the second part describes the perceiver's body being passively affected by the object of perception.
+
+We are now in a position to see how the abstract metaphysical considerations structure Augustine's definition. Given these abstract metaphysical considerations, Augustine must avoid a body, whether the external object of perception or the perceiver's own body, acting upon the soul. So the affection of the external body is restricted to the perceiver's body, and the soul's awareness is conceived to be an activity directed upon a body (the external body on the first disambiguation, the perceiver's body on the second). Moreover, we can see how Augustine's use of the Platonic analogy is apt. The body's, or more specifically, the sense organs', passive capacity to receive the effects of sensible bodies is the sensitive soul's instrument for disclosing those bodies and their sensible qualities. The sensitive soul's activity, its use of the sense organ's passive capacity to receive, is an activity whereby what was previously hidden from the range of its attention is now revealed to the soul.
+
+Three Questions
+
+Having stated a preliminary definition for Evodius to defend, Augustine then pursues three questions, the last of which inaugurates the preliminary form of a puzzle that will animate Augustine's discussion:
+
+	(1) Is everything that the eye perceives seen?
+	(2) Is everything that is perceived by seeing seen?
+	(3) Is everything that is seen, perceived?
+
+Only the third is answered in the affirmative. 
+
+(1) Is everything that the eye perceives seen? No. For, according to Evodius, the eyes may feel pain, but pain is thereby not seen.
+
+(2) Is everything that is perceived by seeing seen? No. For, according to Evodius, one can feel love by seeing the beloved but love is not thereby seen.
+
+(3) Is everything that is seen, perceived? Yes. Otherwise, according to Evodius, seeing would not count as perception.
+
+The Preliminary Formulation of the Puzzle
+
+	(1) Everything that we see is perceived. (from the conception of seeing as a mode of perception)
+	(2) We are affected by everything that we perceive. (the passive element in perception)
+	(3) We are affected by everything that we see. (from 1, 2)
+
+The case: Evodius sees Augustine and Augustine sees Evodius, though neither is in the place that the other is.
+
+	(4) Evodius' eyes perceive Augustine's body. (given)
+	(5) If Evodius' eyes perceive Augustine's body, then they are affected by it. (from 2)
+	(6) Evoidus' eyes are affected by Augustine's body. (from 4, 5)
+	(7) Evodius' eyes are not where Augustine's body is. (given)
+	(8) Evodius' eyes are there affected where Augustine's body is not. (from 6,7)
+
+This conclusion Evoidus finds incredible. He does so in the basis of something that Augustine had him earlier agree to:
+
+	(9) Something cannot there be affected, where the body that affects it is not. (General principle true at least for inanimate natural bodies, causation requires contiguity)
+
+From which it follows that:
+
+	(10) Evodius' eyes cannot there be affected where what affects them is not. (from 9)
+
+But (10) is inconsistent with (8).
+
+Evodius' Response
+
+Evodius' response to this puzzle is to reject (4). Or more exactly the general principle behind it, that it is our eyes that perceive when we see. Evodius suggests, instead, that it is sight that perceives when we see. (How natural is Evodius's suggestion? Is it not more natural to say that we perceive, as opposed to our sight or our eyes?) Notice that the agent of perception has shifted from the eyes, something corporeal if animante, to something incorporeal—sight, a power of the sensitive soul. Augustine commends his suggestion:
+
+	And so it is, for sight goes forth and through the eyes shines far to light up what we see. Hence it follows that there it sees where the object is which it sees, and not at the point where it goes out to see. It is not you then, that see, when you see me? (A 23.43)
+
+O'Daly cites the first line of this passage as evidence that Augustine accepts an extramission theory. Bracketing the general question whether Augustine was an extramission theorist, it suffices to observe, that the commitments incurred by the first line is insufficient for Augustine's account to be an extramission theory. Sight going forth through the eyes to the object of perception describes looking, directing one's visual awareness to the object of perception. That corresponds to the first two grades of extramissive involvement, but a commitment to extramission is only incurred upon accepting all four grades. The defender of the extramission interpretation may claim that I am overlooking the illuminatist imagery that emerges at the end of the line, that sight shines far and illuminates what we see. As we have seen it is common to think of the visual ray, understood as whatever is emitted by the eye in seeing, as a fiery substance, which gives light but does not burn as Plato claims. While the illuminationist imagery coheres with the extramission interpretation, it does not require it. Corporeal light may be the means by which we see, but spiritual light is the means by which we understand. Augustine understands corporeal light as the image (in the Platonic sense) of the true spiritual light.  Insofar as perception, like understanding, involves a modes of awareness, the illuminationist imagery may be the joint result of Augustine's doctrine of illumination—that spiritual light is that by which we understand—and the claim that perceptual activity is an image of intellectual activity.
+
+Consider the second line. Here, Augustine is invoking a distintive doctrine of late Platonist thinkers, such as Plotinus and Porphyry, that perception occurs where its object is at. Augustine claims that sight sees where its object is at and he contrasts this with the claim that sight sees from the point at which it goes out to see, namely, where the eyes are. There may be a phenomenological motivation for Augustine's adherence to this late Platonist doctrine. Augustine is prone to describe visual awareness as attending to the visible. It is natural to describe attentive activity as being located where its object is. Consider the query: Where's your head at? 
+
+The third line draws out a consequence of Evoidus suggestion. Recall that Evodius claims that it is not the eyes that see but sight. Augustine here is drawing Evodius's attention to an overlooked option, that it is the perceiver, and not their sight or their eyes, that see. However, Evodius believes that this conclusion may be resisted. The perceivers sees to be sure, but the perceiver sees by sending sight through the eyes.
+
+Recall Evodius denies that the eyes perceive as the principle behind premise (4) of a reductio. Augustine now points out that the move does not help, the reductio may be reconstructed without it:
+
+(1) If you see, you perceive
+(2) If you perceive, you are acted upon.
+(3) You cannot be acted upon where you are not.
+(4) You see me where I am
+(5) So you are acted upon where I am
+(6) But I am not where you are
+
+
+So how is it that Evoidus sees Augustine? Evodius responds:
+
+	By means of sight, I say, reaching out to that place where you are, I see where you are. That I am not there I admit. But just as though I were to touch you with a rod, I would be the one touching you and I would perceive it; yet, I would not be there where I would be touching you. So it is when I say that I see you by means of sight, although I am not there where you are; I am not forced to admit that it is not I who see. (A 23.43)
+
+Three observations. First, Evodius is appealing to the Stoic stick analogy reported by Alexander of Aphrodisias. Second, what initiated this discussion was sensation by contact. Evodius challenge to the incorporeal nature of the soul consisted in the contention that he soul must be extended through the body since if it is touched at any point it perceives. Augustine has switched the discussion to a distal sense, vision. Now in the course of a discussion of vision, touch remerges, but not as sensation by contact but as a form of distal touch. Third, as Augustine observes, if sight may be defended in this way, so too may the eyes. And Evodius concedes that if the eyes did see where they are, they would see themselves. Strictly speaking, only themselves, Augustine claims.
+
+
+
+
+
+
+
+
+
+
