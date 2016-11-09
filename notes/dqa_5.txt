@@ -1,0 +1,43 @@
+The History of Philosophy of Perception
+De Quantitate Animae
+Criticising the Definition of Perception
+
+Refining the Definition
+
+A preliminary definition of perception was offered by Augustine to Evodius to defend in chapter 23:
+
+	sensum puto esse non latere animam quod patitur corpus (DQA 23.41)
+	
+	Perception is, I think, what affects the body not being hidden from the soul
+
+More refined versions of the definition will be given in DQA 25.48, 26.49, and 30.59:
+
+	sensus sit passio corporis per seipsam non latens animam (DQA 25.48)
+	
+	Perception will be what affects the body by itself [or directly] not being hidden from the soul
+	
+	sensus est cum passio corporis per seipsam non latet animam (DQA 26.49)
+	
+	Perception is when what affects the body by itself is not hid from the soul
+	
+	sensus est corporis passio per seipsam non latens animam (DQA 30.59)
+	
+	perception is what affects the body by itself not hid from the soul
+	
+There are two salient differences between the preliminary definition and the refined versions.
+
+First, quod patitur corpus has been replaced by passio corporis (or, equivalently, corporis passio—the variation in word order makes no difference to the Latin grammar). Passio corporis is most naturally read, not as what affects the body, but the body's affection, what the body undergoes when being affected from without. However, as we observed before, so understood, the definition does not define perception but bodily sensation. But is clear that Augustine is not only discussing perception but a form of distal perception, vision. So passio corporis is a kind of Augustinian shorthand for quod patitur corpus that is meant to inherit its ambiguities. So this first difference is superficial and does not represent a genuine refinement of the definition.
+
+Second, each of the refined versions include a new phrase, per seipsam, which can be translated as by itself or directly. Unlike the substitution of passio corporis for quod patitur corpus, this is not a superficial difference but does represent a genuine refinement of the definition. How are we to understand this refinement and what is the nature of its grounds?
+
+Not only will Augustine criticise the preliminary definition to motivate its refinement, but he will also clarify a number of issues that might stand in the way of accepting the definition. These include getting clear on the difference between perception and perceptual knowledge and, more generally, the difference between perception and knowledge, the difference between reasoning and reason, and understanding the rules for constructing and evaluating definitions. These tasks will be pursued in chapters 23 to 29. It is only when we have the refined definition and the obstacles to accepting it have been eliminated does Augustine apply that definition to answer Evodius' objection to the incorporeality of the soul. (How is it that the soul feels wherever the body is touched if it is not extended throughout the body?)
+
+Perception and Perceptual Knowledge
+
+Augustine distinguishes between perception and perceptual knowledge. His example is seeing smoke in the distance and coming to know upon so seeing that there is a fire in the distance as well. We see the smoke but not the fire, but come to know of the fire's presence on the basis of seeing the smoke. So it is not the case that we see everything that we know on the basis of seeing.
+
+This seems like a narrow point but it will be developed later in discussing the more general distinction between perception and knowledge. Roughly, even granting Augustine's point about the smoke and the fire, Evodius is still tempted to think of the mode of awareness afforded by vision to be a species of knowledge. As we shall see, this raises difficulties. If what distinguishes humans from non-human animals is our rationality, and knowledge requires reason, then if sensory awareness is a mode of knowledge, then non-human animals are incapable of perception, but that is absurd.
+
+Augustine initially marks the distinction between perception and perceptual knowledge in order to evaluate the preliminary definition. At DQA 24.45 he seems to suggest that the distinction raises a worry about the sufficiency of the definition. Specifically he is concerned whether some thing may stasify the definition and yet not be perception. In the present context, the worry is that the body may be affected in a such a way that something is not hidden from the soul, but this not be an instance of any of the Aristotelian five senses. What's important here is not whether or not the Aristotelian five-fold division of the senses is adequate, but whether or not the fire not being hidden from the soul's range of attention is a mode of perception. But it is agreed that it is not. Perception is one thing, knowledge another. And so it would seem that the preliminary definition wrongly classifies perceptual knowledge as perception. (This issue will be discussed in chapters 26–29.)
+
+This issue is presented as a challenge and not developed. In part this is because Evodius fails to see the force of the challenge thus prompting Augustine to change course. Evodius sees Augustine's example of the smoke and the fire as confirming the preliminary definition. He does so because the smoke affects the body and is not hidden from the soul and we perceive it just as the preliminary definition would have it. Evoidus' observation is relevant to the necessity of the definition. What affects the body not being hidden from the soul may be a necessary condition on perception. But Augustine is querying its sufficiency. This is what, in part, motivates, Augustine to examine, in the next chapter, the rules governing the construction and evaluation of valid definitions. 
