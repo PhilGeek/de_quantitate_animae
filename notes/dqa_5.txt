@@ -41,3 +41,91 @@ This seems like a narrow point but it will be developed later in discussing the 
 Augustine initially marks the distinction between perception and perceptual knowledge in order to evaluate the preliminary definition. At DQA 24.45 he seems to suggest that the distinction raises a worry about the sufficiency of the definition. Specifically he is concerned whether some thing may stasify the definition and yet not be perception. In the present context, the worry is that the body may be affected in a such a way that something is not hidden from the soul, but this not be an instance of any of the Aristotelian five senses. What's important here is not whether or not the Aristotelian five-fold division of the senses is adequate, but whether or not the fire not being hidden from the soul's range of attention is a mode of perception. But it is agreed that it is not. Perception is one thing, knowledge another. And so it would seem that the preliminary definition wrongly classifies perceptual knowledge as perception. (This issue will be discussed in chapters 26–29.)
 
 This issue is presented as a challenge and not developed. In part this is because Evodius fails to see the force of the challenge thus prompting Augustine to change course. Evodius sees Augustine's example of the smoke and the fire as confirming the preliminary definition. He does so because the smoke affects the body and is not hidden from the soul and we perceive it just as the preliminary definition would have it. Evoidus' observation is relevant to the necessity of the definition. What affects the body not being hidden from the soul may be a necessary condition on perception. But Augustine is querying its sufficiency. This is what, in part, motivates, Augustine to examine, in the next chapter, the rules governing the construction and evaluation of valid definitions. 
+
+Awareness of Physical Growth
+
+Human animals are subject to growth. Children grow into adults, and even as adults hair and nails continue to grow. And they continue to do so even when, due to great age, we otherwise begin to shrink. Moreover, this is something each of us is aware of. That our bodies are subject to growth is something not hidden from the souls that animate them. But growth is something that the body undergoes. Growth is an affection. It may not be the effect of some external agent acting upon the body. The causes of growth are internal. But such internal causes as there may be act upon the body causing it grow and have greater extension. So growth is an affection not hidden from the soul. If the preliminary definition genuinely provides a sufficient condition for something to count as perception, then our awareness of our body's growth should count as perception. But it doesn't. We may be aware of our nails' growth but it occurs to slowly for us to perceive it. So the preliminary definition fails to provide a sufficient condition for something to count as perception. Growth is a corporeal affection of which we are not unaware, but we do not perceive out body's growth. The preliminary definition needs to be refined in order to avoid this difficulty.
+
+Recall the ambiguity of quod patitur corpus. It could mean either what affects the body or the body's affection—how it is affected by what affects the body. Read the first way, the definition yields a definition of perception. Read the second way, the definition yields at best a definition of bodily sensation. What's important in the overall dialectical context, answering Evodius' challenge to the soul being inextended, is perception and, in particular, distal perception. That reading must be in play in order for Augustine's counter-argument, in chapter 30, to be sound. But that does not mean the ambiguity should be eliminated. Clearly the second reading is in play in the case of growth. What we are aware of is a corporeal affection and not the agent of the causal process that brought it about. So really the charge is that growth is not a form of bodily sensation. It is a change in the body of which we are not unaware but we don't sense our growth. As O'Daly suggests, sensus is meant to cover both perception and bodily sensation.
+
+The bodies growth is not hidden from the soul that animates it. And yet the body's growth is imperceptible to the senses. So such awareness is not perception or sensation. If we do not become aware of the body's growth by perception, then how does it come within the range of the soul's attention? By reason and inference declares Evodius. We come to know that bodies grow by observing human growth and drawing the inference that our body grows as well at least in certain respects. Notice how just as perception is a means of something coming to be not hidden from the soul so too is reason. Ultimately Augustine will argue (chapter 27) that while not being hidden from the soul is involved in both perception and knowledge—that each involves a mode of awareness—perception and knowledge are distinct modes of awareness. The former is awareness secured by the body and the latter is awareness secured by reason or the intellect. An observation about this to which we shall return, the reference to the body is not a placeholder for the Galenic physiology that Augustine develops elsewhere. It's significance is not physiological so much as characterizing a particular mode of awareness—sensory awareness.
+
+Given that the example of growth, at least, establishes that the preliminary definition fails to provide a sufficient condition for perception or sensation, how should that definition be amended so that it is defensible. What refinement may be introduced so as to avoid the failure of sufficiency? Evodius is initially baffled by Augustine's request. He does not know how to proceed so as to identify the needed refinement. Moreover, we saw that he was confused about the nature of the objection since he earlier responded to a challenge to sufficiency by defending the necessity of the definition. So in order to clarify the logic of the objection and to provide Evodius with a framework for identifying the needed refinement, Augustine proceeds to discuss rules for the construction and evaluation of a valid definition.
+
+Rules of Definition
+
+Augustine characterizes a valid definition as follows:
+
+	A definition contains nothing less, nothing more, than what it undertakes to explain; otherwise it is a bad definition (DQA 25.47)
+	
+A failure of sufficiency involves the definition encompassing more than it undertakes to explain. This was the problem identified with the preliminary definition. The body's growth is not hidden from the soul but it is insensible. So the definition included more than perception and sensation, but also forms of non-sensory awareness such as awareness afforded in part by the operation of the intellect as when we are aware of our body's growth. Conversely, a failure of necessity would involve the definition encompassing less than it undertakes to explain. A failure of necessity would involve a genuine mode of perception or sensation that does not satisfy the definition. The definition encompasses less in the sense that it encompasses not all that it undertakes to explain.
+
+Augustine is thus emphasizing the extensional adequacy of a valid definition. And there are three ways in which a definition may fail to be extensionally adequate. It can contain less, more, or less and more that what it seeks to define. That is, it can fail to provide conditions that are necessary, sufficient, or necessary or sufficient.
+
+Definitions have the form exhibited by Augustine's candidate example:
+
+	Man [human] is a mortal animal
+
+More schematically, where F is the definiendum and G is the definiens:
+
+	F is G
+
+To assess whether a candidate definition is extensionally adequate, Augustine introduces the procedure of inversion. Inversion involves two steps: (i) generalization and (ii) inversion. First it involves making the generality of the definition explicit with the introduction of a universal quantifier:
+
+	Every F is G
+
+Second, the definiendum and definiens are swapped or "inverted":
+
+	Every G is F 
+
+In order for the definition to be extensionally adequate, not only must the initial generalization be true, but so must its inversion. The initial generalization of our candidate definition is true:
+
+	Every human is a mortal animal
+	
+However, its inversion is false:
+
+	Every mortal animal is a human
+
+Not every mortal animal is a human. And so the definition is inadequate. It includes more than it undertakes to explain.
+
+Despite failing to be a vald definition, our candidate definition is nonetheless subject to refinement and emendation. Augustine observes that the traditional way of amending the candidate definition is to add the qualification "rational". The initial generalization remains true:
+
+	Every human is a rational mortal animal
+
+And, importantly, its inversion is true as well
+
+	Every rational mortal animal is human
+
+So definitions that fail to provide sufficient conditions for the definiens may, in certain cases, be rendered valid, with the addition of a qualification.
+
+Augustine considers another refinement to illustrate failures of necessity. Specifically, he considers adding the further qualification "grammarian". Notice, this time while the inversion is true:
+
+	Every rational mortal grammarian animal is human
+	
+The initial generalization is false:
+
+	Every human is a rational mortal grammarian animal
+	
+After all, some humans are not grammarians. 
+
+The Rules Applies to the Definition of Perception
+
+Augustine is assessing the following candidate definition of perception:
+
+	Perception is an affection of the body not hidden from the soul
+
+Following Augustine's procedure we generalize and inert:
+
+	Every perception is an affection of the body not hidden from the soul
+	
+	Every affection of the body not hidden from the soul is perception
+
+Even if we grant the truth of the initial generalization, the inversion is false as revealed by the case of growth. Growth is an affection of the body not hidden from the soul and yet it is insensible. We have seen from Augustine's example, that such failures, the definition encompassing more than it undertook to explain, can sometimes be fixed with an emendation. Thus, Augustine's challenge to Evodius: What qualification can be added to the definition to render it valid?
+
+Evodius' answer (picking up on an earlier claim of Augustine whose significance he did not, at that time, elaborate) is "per seipsam" which can be translated as by itself or directly:
+
+	Every affection of the body by itself not hidden from the soul is perception
+
+What is the force of the qualification? Growth is an affection of the body not hidden from the soul and yet growth is insensible. That is why it represented a failure of sufficiency of the initial formulation of the definition. However, it is not true that growth by itself is not hidden from the soul. Growth only falls within the range of the soul's attention by the operation of reason and intellect. In contrast, the object seen affecting the eyes is by itself not hidden from the soul.
+
+Augustine accepts that the refined definition does not encompass more than the definition undertook to explaim. Evodius revival of Augustine's suggestion is successful in that regard. However, if the definition is genuinely valid, not only must it not encompass more that it undertook to explain but it must not encompass less. Augustine thus undertakes to examine whether the definition is subject to a failure of necessity. This discussion will develop over the course of three chapters (chapters 27, 28, and 29). At stake is what is involved in something not being hidden from the soul. If the soul knows something, then, to be sure, what is known is not hidden from the soul. The question is whether the soul knows everything that is not hidden from it. For suppose that is right. Then since only rational animals possess knowledge, and not being hidden from the soul implies knowledge of what is revealed, then non-rational animals would lack perception. But that is absurd.
