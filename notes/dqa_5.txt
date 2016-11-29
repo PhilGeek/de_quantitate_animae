@@ -1,6 +1,6 @@
 The History of Philosophy of Perception
 De Quantitate Animae
-Criticising the Definition of Perception
+Criticising the Definition of Perception: Sufficiency
 
 Refining the Definition
 
@@ -120,7 +120,7 @@ Following Augustine's procedure we generalize and inert:
 	
 	Every affection of the body not hidden from the soul is perception
 
-Even if we grant the truth of the initial generalization, the inversion is false as revealed by the case of growth. Growth is an affection of the body not hidden from the soul and yet it is insensible. We have seen from Augustine's example, that such failures, the definition encompassing more than it undertook to explain, can sometimes be fixed with an emendation. Thus, Augustine's challenge to Evodius: What qualification can be added to the definition to render it valid?
+Even if we grant the truth of the initial generalization, the inversion is false as revealed by the case of growth. Growth is an affection of the body not hidden from the soul and yet it is insensible. We have seen from Augustine's example, that such failures, the definition encompassing more than it undertook to explain, can sometimes be fixed with an emendation. Thus, Augustine's challenge to Evodius: What qualification can be added to the definition to render it valid? 
 
 Evodius' answer (picking up on an earlier claim of Augustine whose significance he did not, at that time, elaborate) is "per seipsam" which can be translated as by itself or directly:
 
