@@ -1,0 +1,97 @@
+The History of Philosophy of Perception
+De Quantitate Animae
+Criticising the Definition of Perception: Necessity
+
+Failure of Necessity
+
+Recall, Augustine characterized valid definitions as follows:
+
+	A definition contains nothing less, nothing more, than what it undertakes to explain; otherwise it is a bad definition (DQA 25.47)
+	
+A failure of sufficiency involves the definition encompassing more than it undertakes to explain. This was the problem identified with the preliminary definition. The body's growth is not hidden from the soul but it is insensible. So the definition included more than perception and sensation, but also forms of non-sensory awareness such as awareness afforded in part by the operation of the intellect as when we are aware of our body's growth. Conversely, a failure of necessity would involve the definition encompassing less than it undertakes to explain. A failure of necessity would involve a genuine mode of perception or sensation that does not satisfy the definition. The definition encompasses less in the sense that it encompasses not all that it undertakes to explain. Augustine is thus emphasizing the extensional adequacy of a valid definition. And there are three ways in which a definition may fail to be extensionally adequate. It can contain less, more, or less and more that what it seeks to define. That is, it can fail to provide conditions that are necessary, sufficient, or necessary and sufficient. 
+
+The failure of sufficiency of the preliminary definition was fixed by amending the definition with the phrase "per seipsam", which may be translated as "by itself" or "directly": 
+
+	Perception is when what affects the body by itself not being hidden from the soul
+
+Augustine is now inquiring as to whether this amended definition, about which both Augustine and Evodius are satisfied that it does not contain more than it seeks to explain, may nonetheless contain less than it seeks to explain. Augustine is thus inquiring whether the amended definition suffers from a failure of necessity. Is it really true that if something is a perception then it is an affection of the body not hidden from the soul? Are there genuine cases of perception, that fail to count as perceptions on the amended definition?
+
+Non-rational Animals
+
+The case against the necessity of the amended definition turns on animal perception. Specifically on the perceptual capacities of non-rational animals. (It will be important for the argument that the contrast is between rational and non-rational animals rather than human and non-human animals.) Thus Augustine begins by getting Evodius to agree that non-rational animals possess perceptual capacities (DQA 25.49). If they do, then the perceptions of non-rational animals should be covered by the amended definition.
+
+What proves to be an obstacle to this, to the perceptions of non-rational animals being covered by the amended definition, is an epistemic conception of what it is for something to be no hidden from the soul. Specifically, the obstacle is the assumption that the soul knows what is not hidden from it, where knowledge is some reality perceived and known by certain reason. 
+
+The difficulty is that this epistemic conception of the awareness involved in perception precludes the possibility of perception among non-rational animals. If perception involves what affects the body by itself not being hidden from the soul, and what is no hidden from it is known by the soul, and knowledge requires certain reason, it follows that non-rational animals, lacking certain reason, lack knowledge, and thus lack perception as well. But it was previously agreed that non-rational animals have perceptual capacities.
+
+Reason and Knowledge
+
+What's gone wrong? Evodius' response is to retain the epistemic conception of sensory awareness—the soul knows what is not hidden from it—but to reject the claim that knowledge requires certain reason. Evodius confesses to a kind of parochialism or anthropocentrism, he was thinking only of human perception when he agreed both knowledge required certain reason. But animals, despite lacking reason, have knowledge. So knowledge cannot require certain reason. Evodius is thinking here of how Ulysses dog recognizes his master upon returning from the Trojan war. The dog knows his master but lacks reason and so knowledge cannot require certain reason. But if knowledge does not require certain reason and non-rational animals may possess knowlege, then the epistemic conception of sensory awareness is consistent with non-rational animals possessing perceptual capacities.
+
+Augustine will press Evodius on the relationship between reason and knowledge. And he is surprised when Evodius claims that knowledge is prior to reason. Specifically Evodius claims that we possess knowledge first so that by it we may attain to reason. Evodius has in mind reasoning from something known to something previously unknown but which comes to be known on the basis of such reasoning. Extending our knowledge through reasoning only ever happens because we first know the premises from which we reason. So some knowledge is attained by reason, but only ever on the basis of other knowledge that we possess. Ultimately, this means that we must possess some knowledge that was not attained through reason. The knowledge that was not attained through reason is inborn in us. Nativism, if not the disconnect between reason and knowledge, was endorsed by the Pythagoreans and Plato. 
+
+Evodius is thus retaining the epistemic conception of sensory awareness by disconnecting knowledge from reason thus allowing for perception among non-rational animals.
+
+Reason and Reasoning
+
+Augustine responds by drawing a distinction between reason, ratio, and reasoning, ratiocinatio. Reason is the power of the soul to know truths with certitude and reasoning is its exercise. Since reason is a power, a wise person may possess this power even when they are not actively exercising it. When not actively engaged in reasoning the wise person does not lose the power of reason. So we can distinguish reason, the power to attain certain knowledge, from reasoning, actively exercising reason to attain certain knowledge.
+
+Augustine describes the distinction as follows:
+
+	So ... reason, you might say, is the sight of the mind, but reasoning is reason's search, that is, the actual moving of the sight of the mind over the things that are to be seen. (DQA 27.53)
+
+Describing reason as the sight of the mind might suggest that it is a faculty of inuition. This would be a mistake. In De Ordino 2.11.30 Augustine distinguishes ratio and intelligentia. Whereas as ratio is a power of discursive rationality, intelligentia is a faculty of intellectual intuition. Intelligentia apprehends its intelligible object as a whole and all at once. Discursive rationality, by contrast, affords no such apprehension, rather the intelligible is  unfolded in reasoning.
+
+We look in order to see. Similarly, we engage in reasoning in order to know with certitude. Given that we value ends over the means of their obtainment, it follows that we value knowledge over reason. Having Evodius agree to this, Augustine presses a charge of impiety. Animals lack reason and yet possess knowledge, according ot Evodius. And yet humans possess reason and obtain knowledge through its exercise only with great difficulty. Does this not make non-rational animals superior to human beings? "May God avert such monstrous madness" (DQA 27.53)!
+
+What's gone wrong is Evodius adherence to the epistemic conception of sensory awareness buoyed by his confidence that non-rational animals, such as Ulysses' dog, genuinely possess knowledge. 
+
+Ulysses Dog
+
+What then of Ulysses dog? Animals can seem to know things, as when Ulysses' dog recognizes his master, not because they possess knowledge without reason, but because of the exercise of non-rational, non-epistemic powers. Specifically, it is the power of perception and habit that explains the behavior of Ulysses'd dog, and not its power to know its master:
+
+	The sense perception of animals, aided by the great force of habit, enables them to pick out things that satisfy their souls, and this is done all the more easily because the brute soul is more closely bound to the body, and, of course, the sense belong ot the body, the sense that the soul uses for food and for the pleasure that it derives from the body. (DQA 28.54)
+	
+A brief comparison with Descartes. Descartes denies that non-rational animals have souls, the life of non-rational animals being susceptible to a purely mechanical explanation. However, Descartes accepts the conception of sense perception that Augustine describes, namely, that perception is for the well being of the body.
+
+Whereas perception concerns the well being of the body, reason concerns the well being of the soul apart from the body. By means of reason and knowledge the human soul withdraws itself from the corporeal and enjoys the delights of an interior life. 
+
+This is the basis of a distinction of virtue between the inner and outer man (De Trinitate). The outer man consists of the powers of the compound or living being, they cannot be possessed or exercised apart from the body. These would include perception, memory, and imagination. The inner human consists of the powers of the rational soul apart from the body. These would include reason or intellect. This distinction has Christian and Platonist sources: 
+
+	For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. (Paul 2 Corinthians 4:16; see also Plato Republic 9 589a7 and Plotinus Ennead 1 1 10 15, 5 1 10 10.)
+	
+The ethical significance of the distinction fits well the patterns laid down by Platonic soteriology. The soul's salvation consists in withdrawing from the sensible and corporeal (thus, in Paul's words, allowing the outer man to perish). This withdrawal is understood as the soul reverting upon itself so that it may know itself better apart from the body. And since the inner man, the rational part of the soul, is an image of God, self-knowledge is a necessary precursor to our ascent to God.
+
+The Difference between Knowledge and Perception
+
+The challenge to necessity was this. Suppose that perception involves what affects the body by itself not being hidden from the soul. And suppose further that the soul knows what is not hidden from it. Then since non-rational animals lack knowledge, they lack perception. But non-rational animals undoubtedly possess perceptual capacities. 
+
+Augustine now suggests that things are even worse for Evodius. Recall there are three ways a definition may fail to be valid. It may encompass more than it seeks to explain, it may encompass less than it seeks to explain, but it may also encompass both more and less. As an example of this third kind of failure, Augustine suggests:
+
+	Man is a four footed animal.
+
+Following Augustinian procedure, we get:
+
+	Every man is a four-footed animal
+	Every four-footed animal is a man
+
+but both of these are false. Humans are not four-footed animals and no four footed animal is a human. So the putative definition of humanity encompasses both more and less than it seeks to explain.
+
+Augustine's suggestion, then, is that, given Evodius' adherence to the epistemic conception of sensory awareness, the refined definition, so interpreted, is subject to this third failure as well. Perception is distinct from knowledge. After all, only rational animals may possess knowledge, while non-rational animals possess perception. Furthermore, everything we know we know by reason, but we do not perceive by reason but by means of the senses. So perception and knowledge is distinct. Since something not being hidden from the soul is known, then not being hidden from the soul has as little do with perception as being a quadraped has to do with being human. Given the epistemic conception of sensory awareness, not only does the refined definition, so interpreted, fail to be necessary, it fails as well to be necessary and sufficient.
+
+Rejecting the Epistemic Conception of Awareness
+
+Augustine is now in a position to diagnose Evodius' mistake. Evodius' mistake was his adherence, not to the refined definition of perception, but to the epistemic conception of sensory awareness. Non-rational animals have perception but lack knowledge. Thus the sensory awareness afforded by perceptual experience is not a species of knowledge. The soul does not necessarily know what is not hidden from it.
+
+Knowledge and perception are distinct. Only rational animals may possess knowledge, but non-rational animals may possess perception. Nevertheless, knowledge and perception are importantly alike. In each case, their objects are not hidden from the soul. Thus, although knowledge and perception are two different things, they have not being hidden from the soul as a common element. Instead of maintaining that the soul knows what is not hidden from it, Evodius should have maintained, instead, that the soul knows what is not hid from it by means of reason. That is to say, when reason brings something within the range of the soul's attention then the soul knows that thing. However, when something is not hid from the soul, not by means of reason, but by means of the body's affection, then this is not knowledge but perception. 
+
+This clearly shows that quod patitur corpus or passio corporis are not schematic placeholders for a broadly Galenic physiology. Rather, the body's affection is used to specify the relevant kind of awareness involved in perception, that is to say, a sensory, as opposed to an epistemic, awareness.
+
+Once the epistemic conception of sensory awareness is abandoned, the challenge to necessity collapses. Recall, that challenge consisted in providing an example of perception not covered by the refined definition. Augustine's example was perception as it occurred in non-rational animals. And the only reason it seemed not to be covered by the refined definition was Evodius' adherence to the epistemic conception of not being hidden from the soul. So once we abandon that conception, the challenge collapses.
+
+At this point, then, Augustine and Evodius have assured themselves that the refined definition is valid. It neither contains more nor less than it seeks to explain. But what does the refined definition of perception have to do with Evodius' challenge to the inextended nature of the soul? Recall, Evodius observes that if he is touched anywhere on his body, he will feel it. How could this be so, unless the sensitive soul at least was extended throughout the body? How does the valid refined definition of perception address this challenge?
+
+
+ 
+
+
