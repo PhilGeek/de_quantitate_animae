@@ -1,0 +1,109 @@
+Perception and Its History
+De Quantitate Animae
+The Grades of the Soul
+
+
+Review
+
+Recall, DQA begins with a list of questions put forward by Evodius concerning the soul:
+
+Evodius' questions
+
+	1. What is the origin of the soul? (DQA 1.2)
+	2. What is the nature of the soul? (DQA 2.3)
+	3. What is the magnitude of the soul? (DQA 3.4–36.80)
+	4. What is the reason for the soul's union with the body? (DQA 36.81)
+	5. What is the effect of this union? (DQA 36.81)
+6. What is the effect of the soul's separation from the body? (DQA 36.81)
+
+Only the first three questions have been answered: God is the origin of the soul, the nature of the soul consists in its being the image and likeness of God, and if magnitude means extensive magnitude, then the soul lacks such magnitude (though it has great virtual magnitude). The last three questions admit of a summary answer only, a complete answer being left to another occasion.
+
+The Grades of the Soul
+
+Augustine provides a hierarchically enumerated list of the soul’s powers. It is the powers of the human soul that are being enumerated, as opposed to the powers of the soul of a non-human animal or the powers of an angelic soul. There were a number of such taxonomies in late antiquity as Augustine acknowledges, but none are privileged:
+
+For the same realities can be named in ways without number and be classified minutely according to different norms; in such a variety of means, each one uses the way he considers more suitable. (DQA 35.79)
+
+Indeed, Augustine will give two alternative descriptions of the grades of the soul, and a third partial description linking these grades to explicit soteriological concerns.
+
+	The Grades of the Soul
+
+1.	Animation (animatio)
+2.	Perception (sensus)
+3.	Art (ars)
+4.	Virtue (virtus)
+5.	Tranquillity (tranquillitas)
+6.	Approach (ingressio)
+7.	Contemplation (contemplatio)
+
+Each grade consists of a power or cluster of powers of the incorporeal soul. Let’s consider these in turn.
+
+Animation
+
+Augustine begins by affirming that the soul is the principle of life. In this, Augustine contrasts with Descartes. Descartes may have held that the soul was inextended and incorporeal, but the activities characteristic of living beings were not to be explained by the presence of an animating soul; rather they were given a mechanistic explanation. Augustine, here, is following a Platonic tradition shared by Aristotle in De Anima and by the neo-Platonists that influenced Augustine such as Plotinus and Porphyry. 
+
+Moreover, Augustine picks up on a theme that I emphasized last time, namely, that if the soul is the principle by which the body lives, then it is also what gives unity and integrity to the body that it animates. In late antiquity, the corruption of the body upon the soul’s departure was taken as evidence for this. If the soul is what gives integrity to the body that it animates, then upon its departure that body will lose that integrity.
+
+What must the soul do, or be capable of, if it is to maintain the unity and integrity of the body? First, it must regulate the proper distribution of nourishment. Second, it must arrange the parts of the body in an apt proportion. The arrangement of the parts of the body must be apt not only so as to delight the eye with its beauty but so as to make possible growth and reproduction.
+
+The powers of nourishment, growth, and reproduction are powers that human beings share with plant life. The first grade thus corresponds to what Aristotle and the Peripatetics describe as the nutritive or vegetative soul. 
+
+Perception
+
+If animation is something we share with plant life, perception is what distinguishes animals from plants. Augustine is following Aristotle, here, who maintained that the sensitive soul, the powers of the soul associated with perception and allied faculties, pertained to animals and not to plants. Augustine describes the attribution of sensation to plant life as a superstition. Here he is plausibly read as targeting the Manichean heresy to which Augustine once subscribed.
+
+Augustine maintains that perception is for the well being of the body. Through perception, an animal is aware of what is good for it and seeks it and is aware of what is bad for it and avoids it. (Later, Descartes too will maintain that perception is for the well being of the body.)
+
+The second grade consists not only in our sensory powers, but in allied powers as well, such as memory, imagination, and desire. They are allied insofar as the relevant kinds of memory and imagination are not possible without perception. One can only remember what one has seen, and can only imagine with images derived from sense experience. And since perceptions can be pleasurable or painful these naturally give rise to desiderative activities. Other associated powers are the posers to sleep and dream.
+
+Art
+
+If the first grade is something we share with plant life, and the second grade with non-human animals, the third grade is proper to human beings. The third grade consists in those powers of the soul that explain the arts and crafts of civilized humanity. Art, here, does not mean fine art, such as painting or sculpture, but rather a skill, craft, or technique. At its core is the (morally indifferent) power of discursive rationality. Thus, Augustine claims that these powers are a common heritage of the rational soul. If the first grade corresponded to the Peripatetic vegetative soul, and the second to the Peripatetic sensitive soul, the third grade corresponds to the Peripatetic rational soul. And like the Peripatetics, Augustine maintains that the rational soul distinguishes humanity from non-human animals. 
+
+While art is the common heritage of the rational soul, we can still distinguish between the learned and the ignorant, the good and the wicked. Each possesses art even if some are otherwise lacking. In this sense is the discursive rationality at its core said to be morally indifferent. 
+
+The qualification “discursive” is not otiose. The highest grade of the soul, contemplation, is properly characterized as involving intellectual powers and activities, if non-discursive.
+
+Virtue
+
+Human beings, and living beings more generally, are a compound of soul and body. Whereas the first three grades of the soul concern the corporeal, the fourth grade represents a turn away from the corporeal. It is because of the fourth grade of the human soul that it is superior not only to the body it animates but to every extended thing in the corporeal realm. 
+
+The powers and activities of the fourth grade are “purifying”. The soul, in attaining the Greek virtues of wisdom, temperance, courage, and justice purifies itself of the body and corporeal desire. The soul purifies itself by using wisdom to distinguish its own beauty from the lower beauty of the body and corporeal things generally. The soul purifies itself by using temperance to despise lesser goods and to detach itself from the corporeal world. The soul purifies itself by using courage to face up to the fear of death and anything else that would challenge its faith. Finally the soul purifies itself by using justice to value human society, wish for another nothing one does not wish for oneself and believe in God in accordance with the authority of the wise.
+
+Tranquility
+
+If the fourth grade, virtue, consisted of “purifying” powers and activities of the incorporeal soul, the fifth grade, tranquility, consists in “purified” powers and activities of the soul. Once the soul is purified, it rejoices in itself and consolidates its virtues. The key thought here is that it is one power of the soul to purify itself of corporeal defilement, and another power of the soul to maintain that purity. This latter power is what Augustine designates by “tranquility”.
+
+Approach
+
+Once fully purified, and its purity maintained and stabilized in tranquility, the soul may now direct its “gaze” towards God. The visual metaphor should be understood as looking as opposed to seeing (the analogue of seeing only occurs in the seventh grade, contemplation). Non-metaphorically, the sixth grade should be understood as the power to engage in intellectual activities that have contemplation as their end. Augustine stresses that any attempt to exercise these powers before the soul is properly purified will result in not only failure but potentially moral and intellectual corruption as well.
+
+Contemplation
+
+In the seventh and final grade, the soul having turned its “gaze” towards God comes to rest in the “vision” and contemplation of truth or God. The contemplative virtues are like the purifying virtues of the fourth grade, though they assume a different and greater significance. (These are discussed throughout DQA 76-81.) Wisdom, as a contemplative virtue, consists in the non-discursive intellectual apprehension of God. As a consequence of contemplative wisdom, the soul becomes certain of the relative values of the corporeal, the soul, and God, and it becomes certain about Christian doctrines that cannot otherwise be known through reason, such as the resurrection of the body, Christ’s incarnation and virgin birth (DQA 33.76). The contemplative virtue of temperance consists in the complete subjugation of the soul to God, as well as the complete subjugation of the body to the soul (DQA 36.80). Courage, as a contemplative virtue consists in administering to the body in this life, despite its resistance (DQA 36.81). Finally, justice, as a contemplative virtue, consists in worshipping only God, and aiding souls that are in difficulties (DQA 34.78)
+
+Augustine’s seven grades of the powers or virtues of the soul might be grouped as follows:
+
+1.	Non-rational powers and activites (animation, perception)
+2.	Discursively rational powers and activiites (art)
+3.	Purificatory virtues (virtue, tranquility)
+4.	Contemplative virtues (approach, contemplation)
+
+Alternative Descriptions of the Grades of the Soul
+
+Augustine offers alternative descriptions of the grades of the soul. These are summarized in the following table:
+
+Animation (animatio)			Of the body			Beautifully (pulchre) of another	
+Perception (sensus)				Through the body	Beautifully through another	
+Art (ars)						About the body		Beautifully about another		Religion grips the soul and begins to guide
+Virtue (virtus)					Toward itself		Beautifully toward a beautiful	Religion purifies the soul
+Tranquility (tranquillitas)		In itself			Beautifully in a beautiful		Religion reforms the soul
+Approach (ingressio)			Toward God			Beautifully toward Beauty		Religion initiates the soul
+Contemplation (contemplatio)	In God				Beautifully in Beauty			Religion nurtures the soul
+
+
+Evodius’ Unanswered Questions
+
+Recall three of Evodius’ six questions remain unanswered. Specifically we as of yet do not know the reason for the soul’s union with the body, what the effect of this union is, and what happens after the soul is separated from the body. All three are given a summary answer in DQA 36.81. Concerning the first, Augustine assures us that since the soul’s union with the body occurs within a divine order there must be a reason for it. The effect of this union is our mortality (owing to the soul’s sin, Augustine accepts Pauline theology and the doctrine of original sin) though we have in our power to overcome this by turning to God. And what transpires after the soul separates from the body depends upon its conduct. Pain and death will continue if sin remains, but for the virtuous God Himself and truth will be the reward.
+
+It is clear to both Augustine and Evodius that these require further discussion, but they leave that for another occasion.
