@@ -1,0 +1,76 @@
+Ref.:  Your submission (PHRO-1953)
+
+Dear Professor Kalderon,
+
+I am writing to let you know that we have had our reader's report on your submission to Phronesis. I am sorry to say that, taking this into account, we are not able to accept the paper for publication. 
+
+It is our policy not to enter into discussion about decisions, but you can find our reader's report below my signature; and I would like to thank you for allowing us to consider your piece.
+
+With best wishes,
+yours sincerely,
+
+George Boys-Stones
+
+--------------------------------------
+Managing Editor
+Phronesis
+
+Professor of Ancient Philosophy,
+Department of Classics and Ancient History,
+Durham University
+
+38 North Bailey
+Durham
+DH1 3EU. UK
+
+
+REPORT ON PHRO-1953
+
+This paper contains several interesting remarks and observations about Augustine's views of perception and is impressively steeped in the history of philosophy of perception (invoking figures like Plato, Aristotle, Merleau-Ponty, Descartes, Dennett, and lesser known figures such as Priscian or Hipparchus with equal facility).
+
+However, some points are unclear, several of its central interpretative claims are not adequately supported, and the central argument of the paper faces significant objections. 
+
+For instance, the author claims to be arguing a "standard interpretation". However, it is not clear this is an accurate characterization. O'Daly, who the author selects as a representative of the "standard interpretation", only offers extremely brief remarks and does not even aim to describe what is going on in De Quantitate Animae. He merely briefly alludes to the text while giving an account of Augustine's extramission theory. The author should have chosen a better target and done more to show that the interpretation is indeed "standard".
+
+The author's claim that Augustine is committed to the rejection of extramission theories of perception in De Quantitate Animae is not adequately supported or appropriately explained. De Quantitate Animae is full of complicated dialectical movements. Many assumptions are made and theses are argued for which Augustine is not ultimately committed to. The author does not give good reasons for thinking that Augustine is committed to the relevant claims made during that discussion and the paper needs to carefully analyze De Quantitate Animae 23.41ff  
+
+Furthermore, even if the author's overall reading is correct and Augustine is indeed committed to the rejection of the extramissive theory of perception in De Quantitate Animae, the author does not make clear what import this has and the discussion of the grades of extramissive involvement in Section 6 is interesting but not especially helpful in explaining the misreading the author perceives. 
+
+Finally, the evidence for the extramissive theory in other works (including early works) is very strong. Even if Augustine's character in De Quantitate Animae were not committed to the extramissive theory of perception, the author does not make clear how noticing this fact contributes to our understanding of Augustine's thought about perception or how it contributes to our understanding of De Quantitate Animae. 
+
+Other comments:
+
+The author needs to give a detailed discussion of the Stoic account of perception, which several sources represent as extramissive, and which is an important influence on Augustine and Evodius. 
+
+The author's claims about passio corporis are implausible.
+
+The author focuses primarily on vision while making occasional remarks about touch. 
+
+The discussion, albeit brief, of Augustine's sermons is welcome. However, more attention should be given to his letters (e.g. Ep. 166), De Libero Arbitrio, and other works. The discussion of hearing offered in De Musica deserves discussion. The author could also discuss details of physiology or psychology from works like De Genesi ad Litteram. 
+
+The author should engage with more of the relevant literature. For instance, Byers (2013); O'Daly (1987) (who is cited at the beginning and not mentioned again); and much of the relevant French and German scholarship. 
+
+Some particular comments:
+
+p. 1, l. 48: "far from endorsing an extramission theory of perception, Augustine explicitly argues for its rejection". It is not clear that Augustine explicitly argues for its rejection. The author elsewhere says that Augustine is merely committed to its rejection.
+
+p. 4, l. 26: "Extensive magnitudes cited by Augustine are length, width, and strength [...] Strength here translates robustam which means the resistance offered by solid objects that occupy space" The claim is plausible, but evidence should be provided for it. The term is not exceedingly common in these contexts.
+
+p. 8, l. 42ff: "quod patitur corpus describes the object of perception". The author's discussion does not add anything new to existing discussions (e.g. Brittain 2002) and misses some of the more important considerations in favour of such claims. The revised definition of perception offered later in De Quantitate Animae seems to tell against such interpretations. See next remark.
+
+p. 12, l. 4ff: "Passio corporis is most naturally read, not as what affects the body, but the body's affection, what the body undergoes when being affected from without. However, as we observed before, so understood, the definition does not define perception but bodily sensation. But it is clear and important that Augustine is not only discussing perception but a form of distal perception, vision. So passio corporis is a kind of Augustinian shorthand for quod patitur corpus that is meant to inherit its ambiguities." This is a surprising claim which flies in the face of all the evidence with which I am familiar. The author would have to provide very good textual evidence for a claim of this kind and I can't imagine there being any such textual evidence. 
+
+p. 14, ll. 33: "A perceiver sees an object where the perceiver is not." There is textual evidence for this claim at Quant. An. 23.42ff, but the author needs to carefully analyze the textual evidence. In fact, given its importance, the author should collect all the textual evidence for this claim, including relevant evidence for and against the claim from other works, and offer detailed discussion. 
+
+p. 14, ll. 43: "Seeing is a form of perception. If one perceives, one is acted upon. So in seeing one is acted upon. And since what acts upon one when one sees is located where one is not, in seeing one is acted upon where one is not". The reasoning, which the author seems to endorse, is opaque. In seeing, x is acted upon by y and y is not where x is. However, how does it follow that when x sees, x is acted upon where x is not? Even if x is acted upon by something which is where x is not, it doesn't thereby follow that x is acted upon where x is not. For instance, y might affect some medium which in turn affects x and x would thereby be affected where x is. The author does not adequately explain this..
+
+pp. 14-15: There are two major objections to the author's discussion here. (A) The author does not adequately provide evidence for thinking that Augustine is committed to a perceiver being affected where the perceiver is not, either in De Quantitate Animae or elsewhere. The evidence is there in the text, but the author's discussion of it is insufficient. (B) Augustine's remarks in other early works suggest that the eye is affected where it is (rather than where it is not). Discussion and explanation of this fact is required. 
+
+pp. 19-20. The author's argument that we should not construe the visual ray being projected from the eye as light is interesting and learned. However, what the author wants Augustine to say has little positive textual evidence in its favour and is inconsistent with what Augustine actually does say elsewhere. Thus, for instance:  Iactus enim radiorum ex oculis nostris, cuiusdam lucis quidem est iactus... De Genesi ad Litteram 1.16.31. The author cites and discusses this text on page 33 (but the translation offered is a poor one).
+
+p. 21, l. 51ff: "a defender of the extramissionist reading might object that we are overlooking the final line of the quoted passage where it is maintained that vision occurs where the object is seen and not at the place where sight goes out from. It is true that if vision occurs through the emission of a visual ray, then this is well explained. However, while the extramission theory may explain this claim, that explanation is not indispensable. Augustine, here, is echoing a Neoplatonic doctrine, that perception places the perceiver in the object perceived, shared by Plotinus and Porphyry, neither of whom were extramissionists. Augustine seems to have in mind, here, not the extramission theory, but the phenomenology of attentive awareness." The author recognizes that his or her claims go against the text cited (De quantitate animae 23.43) on p. 18, but offers no evidence in support of their reading.
+
+p. 31, ff: In Section 7, the author plausibly claims that Augustine does not take the extramission theory to be required by scripture or reason and that the theory is 'not a central element in Augustine's thought about perception'. The extramission theory might be a defeasible commitment, but the author does not show that the extramission theory is not a central element. If Augustine is committed to an extramission account in other works, then the author needs to analyze why Augustine went from being committed to the denial of such theories in De Quantitate Animae to being committed to such theories in other works. If the rejection of extramissive theories in De Quantitate Anime is merely dialectical, then it is unclear what we should conclude from this or that the paper makes a point of sufficient interest.
+
+__________________________________________________
+In compliance with data protection regulations, you may request that we remove your personal registration details at any time.  (Use the following URL: https://www.editorialmanager.com/phro/login.asp?a=r) Please contact the publication office if you have any questions.
